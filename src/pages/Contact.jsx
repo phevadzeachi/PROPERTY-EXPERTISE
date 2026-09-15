@@ -1,4 +1,4 @@
-```jsx
+
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
@@ -57,7 +57,6 @@ function Contact() {
               რომელი ტიპის შეფასებაა თქვენთვის საჭირო.
             </p>
 
-
             <div className="contact-details">
 
               <div className="contact-detail">
@@ -94,7 +93,6 @@ function Contact() {
               </div>
 
             </div>
-
 
             <Link
               to="/"
@@ -357,4 +355,4 @@ function Contact() {
 }
 
 export default Contact;
-```;
+
