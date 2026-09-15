@@ -61,7 +61,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <div>
               <h3>
@@ -80,7 +80,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <div>
               <h3>
@@ -98,7 +98,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <div>
               <h3>
@@ -117,7 +117,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>04</span>
+            <span>4</span>
 
             <div>
 
@@ -138,7 +138,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>05</span>
+            <span>5</span>
 
             <div>
 
@@ -159,7 +159,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>06</span>
+            <span>6</span>
 
             <div>
 
@@ -179,7 +179,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>07</span>
+            <span>7</span>
 
             <div>
 
@@ -200,7 +200,7 @@ function Standard() {
 
           <div className="expert-item">
 
-            <span>08</span>
+            <span>8</span>
 
             <div>
 
@@ -247,7 +247,7 @@ function Standard() {
 
           <div className="standard-benefit">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               ქონების ძირითადი სურათი
@@ -263,7 +263,7 @@ function Standard() {
 
           <div className="standard-benefit">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               საბაზრო ღირებულების შეფასება
@@ -279,7 +279,7 @@ function Standard() {
 
           <div className="standard-benefit">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               მნიშვნელოვანი რისკები
@@ -295,7 +295,7 @@ function Standard() {
 
           <div className="standard-benefit">
 
-            <span>04</span>
+            <span>4</span>
 
             <h3>
               ინფორმირებული გადაწყვეტილება
@@ -337,7 +337,7 @@ function Standard() {
 
           <div className="standard-process-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               ქონების შესწავლა
@@ -353,7 +353,7 @@ function Standard() {
 
           <div className="standard-process-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               ძირითადი ანალიზი
@@ -369,7 +369,7 @@ function Standard() {
 
           <div className="standard-process-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               რისკების შეფასება
@@ -385,7 +385,7 @@ function Standard() {
 
           <div className="standard-process-item">
 
-            <span>04</span>
+            <span>4</span>
 
             <h3>
               საბოლოო კონსულტაცია

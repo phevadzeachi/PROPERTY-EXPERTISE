@@ -157,7 +157,7 @@ function Home() {
 
           <div className="why-us-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               დეტალური ანალიზი
@@ -174,7 +174,7 @@ function Home() {
 
           <div className="why-us-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               რეალური ღირებულება
@@ -190,7 +190,7 @@ function Home() {
 
           <div className="why-us-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               რისკების კონტროლი
@@ -206,7 +206,7 @@ function Home() {
 
           <div className="why-us-item">
 
-            <span>04</span>
+            <span>4</span>
 
             <h3>
               პირადი კონსულტაცია
@@ -247,7 +247,7 @@ function Home() {
 
           <div className="process-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               ქონების შესწავლა
@@ -263,7 +263,7 @@ function Home() {
 
           <div className="process-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               ექსპერტული შეფასება
@@ -279,7 +279,7 @@ function Home() {
 
           <div className="process-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               საბოლოო კონსულტაცია

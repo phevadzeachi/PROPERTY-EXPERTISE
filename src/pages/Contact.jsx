@@ -60,7 +60,7 @@ function Contact() {
             <div className="contact-details">
 
               <div className="contact-detail">
-                <span>01</span>
+                <span>1</span>
 
                 <div>
                   <h3>მომსახურება</h3>
@@ -70,7 +70,7 @@ function Contact() {
 
 
               <div className="contact-detail">
-                <span>02</span>
+                <span>2</span>
 
                 <div>
                   <h3>კონსულტაცია</h3>
@@ -82,7 +82,7 @@ function Contact() {
 
 
               <div className="contact-detail">
-                <span>03</span>
+                <span>3</span>
 
                 <div>
                   <h3>პასუხი</h3>

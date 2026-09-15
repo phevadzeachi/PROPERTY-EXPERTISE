@@ -60,7 +60,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <div>
               <h3>
@@ -78,7 +78,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <div>
               <h3>
@@ -96,7 +96,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <div>
               <h3>
@@ -114,7 +114,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>04</span>
+            <span>4</span>
 
             <div>
               <h3>
@@ -132,7 +132,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>05</span>
+            <span>5</span>
 
             <div>
               <h3>
@@ -150,7 +150,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>06</span>
+            <span>6</span>
 
             <div>
               <h3>
@@ -168,7 +168,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>07</span>
+            <span>7</span>
 
             <div>
               <h3>
@@ -186,7 +186,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>08</span>
+            <span>8</span>
 
             <div>
               <h3>
@@ -204,7 +204,7 @@ function Premium() {
 
           <div className="expert-item">
 
-            <span>09</span>
+            <span>9</span>
 
             <div>
               <h3>
@@ -266,7 +266,7 @@ function Premium() {
 
           <div className="premium-benefit">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               ქონების რეალური სურათი
@@ -282,7 +282,7 @@ function Premium() {
 
           <div className="premium-benefit">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               ხარჯების წინასწარი შეფასება
@@ -298,7 +298,7 @@ function Premium() {
 
           <div className="premium-benefit">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               რისკების გამოვლენა
@@ -314,7 +314,7 @@ function Premium() {
 
           <div className="premium-benefit">
 
-            <span>04</span>
+            <span>4</span>
 
             <h3>
               ინფორმირებული გადაწყვეტილება
@@ -356,7 +356,7 @@ function Premium() {
 
           <div className="premium-process-item">
 
-            <span>01</span>
+            <span>1</span>
 
             <h3>
               ქონების შესწავლა
@@ -372,7 +372,7 @@ function Premium() {
 
           <div className="premium-process-item">
 
-            <span>02</span>
+            <span>2</span>
 
             <h3>
               დეტალური ანალიზი
@@ -388,7 +388,7 @@ function Premium() {
 
           <div className="premium-process-item">
 
-            <span>03</span>
+            <span>3</span>
 
             <h3>
               ექსპერტული შეფასება
@@ -404,7 +404,7 @@ function Premium() {
 
           <div className="premium-process-item">
 
-            <span>04</span>
+            <span>4</span>
 
             <h3>
               საბოლოო კონსულტაცია
